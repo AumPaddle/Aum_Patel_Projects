@@ -5,7 +5,7 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 
-url = 'https://www.youtube.com/watch?v=EpipswT-LuE&ab_channel=TED'
+url = 'https://www.youtube.com/watch?v=PtrB4EgvDQA'
 video_id = extract.video_id(url)
 #print(video_id)
 
